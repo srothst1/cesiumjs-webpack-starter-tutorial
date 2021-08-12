@@ -1,4 +1,4 @@
-**CesiumJS and Webpack**
+# CesiumJS and Webpack
 
 webpack is a popular and powerful tool for bundling JavaScript modules. It allows developers to structure their code and assets in an intuitive way and to load different kinds of files as needed with simple require statements. When building, it will trace code dependencies and pack these modules into one or more bundles that are loaded by the browser.
 
