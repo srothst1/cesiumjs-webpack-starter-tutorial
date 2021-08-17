@@ -422,7 +422,7 @@ Copy and paste your favorite Sandcastle example. For example, [The Particle Syst
 
 ![South San Francisco](./screenshots/fw.png)
 
-# Advanced webpack configurations
+# Advanced webpack configurations and Resources
 
 Webpack can be leveraged in many more ways to increase performance, decrease your bundle size, and perform additional or complex build steps. Here we’ll discuss a few configuration options relevant to using the CesiumJS library.
 
@@ -432,3 +432,14 @@ Source maps allow webpack to trace errors back to the original content. They off
 
 ` devtool: 'eval' `
 
+Please note that source maps are not recommended for production code.
+
+**Resources**
+
+The official cesium-webpack-example  repo contains the minimal webpack configuration, the hello world code covered in this tutorial, and instructions for optional code configurations.
+
+For a tour of CesiumJS feature to include in your new app, see the Cesium Workshop Tutorial.
+
+Explore demos in Sandcastle and see the CesiumJS Documentation.
+
+To learn more about webpack, take a look at webpack Concepts, or dive into the Documentation.
