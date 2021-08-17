@@ -59,5 +59,6 @@ module.exports = {
         contentBase: path.join(__dirname, "dist")
     },
     mode: 'development',
+    devtool: 'eval',
 };
 
