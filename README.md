@@ -426,11 +426,9 @@ Copy and paste your favorite Sandcastle example. For example, [The Particle Syst
 
 Webpack can be leveraged in many more ways to increase performance, decrease your bundle size, and perform additional or complex build steps. Here we’ll discuss a few configuration options relevant to using the CesiumJS library.
 
-** Enable source maps **
+**Enable source maps**
 
 Source maps allow webpack to trace errors back to the original content. They offer more or less detailed debugging information in exchange for compiling speed. We recommend setting `devtool` to the 'eval' option in `webpack.config.js`
 
-'''
-devtool: 'eval'
-'''
+` devtool: 'eval' `
 
