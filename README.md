@@ -71,4 +71,6 @@ rules: [{
 
 Pull requests are appreciated. Please use the same [Contributor License Agreement (CLA)](https://github.com/AnalyticalGraphicsInc/cesium/blob/master/CONTRIBUTING.md) used for [Cesium](https://cesiumjs.org/).
 
+---
+
 Developed by the Cesium team.
